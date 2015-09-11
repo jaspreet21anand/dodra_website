@@ -1,0 +1,48 @@
+.container.home-first-page, .container.home-second-page {
+  background-color: #17599D;
+  color: white;
+}
+
+.row.title h2 {
+  color: white;
+}
+
+.upper-title {
+  font-family: sans-serif;
+  margin-bottom: 0px; 
+}
+
+.lower-title {
+  font-family: sans-serif;
+  margin-top: 0px;
+  font-size: 32px;
+  font-weight: bolder;
+}
+
+.general-title {
+  margin-bottom: 7px;
+}
+
+.general-text {
+  font-size: 14px;
+}
+
+.about-dodra {
+  color: #ffc100;
+  font-size: 24px;
+}
+
+.menu ul {
+  list-style-type: none;
+  background-color: #132034;
+  height: 50px;
+}
+
+.menu ul li {
+  display: inline-block;
+  padding: 15px 10px;
+}
+
+.delimiter-slash {
+  color: #ffc100;
+}
