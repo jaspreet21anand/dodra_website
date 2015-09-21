@@ -10,7 +10,6 @@
 .upper-title {
   font-family: sans-serif;
   margin-bottom: 0px;
-  margin-top: -5px;
 }
 
 .lower-title {
@@ -76,4 +75,27 @@
 
 .dates {
   color: #ffc100;
+}
+
+.carousel-inner{
+  max-height: 420px !important;
+}
+
+.navbar{ 
+  background-image: none !important;
+  border-radius: 0px;
+  width: 100%;
+}
+
+.navbar-default .navbar-nav > li > a {
+  color: #fff; 
+}
+
+.navbar-default .navbar-nav > li > a:hover {
+  color: #ffc100; 
+}
+
+.navbar-default {
+  background-color: #132034;
+  border-color: #132034;
 }
